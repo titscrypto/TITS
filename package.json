@@ -1,0 +1,22 @@
+{
+  "name": "tits",
+  "version": "1.0.0",
+  "description": "The Great Ethereum Lottery",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/titscrypto/TITS.git"
+  },
+  "author": "TITS Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/titscrypto/TITS/issues"
+  },
+  "homepage": "https://github.com/titscrypto/TITS#readme"
+}
